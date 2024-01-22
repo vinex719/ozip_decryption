@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://assorted.downloads.oppo.com/firmware/CPH1729/Version%20for%203G%264G%20RAM/M6763D_11_OTA_0350_all_MNq2a4a5WXxw.ozip #edit link here...
   FIRMWARE_NAME: M6763D_11_OTA_0350_all_MNq2a4a5WXxw.ozip  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: M6763D_11_OTA_0350_all_MNq2a4a5WXxw.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: Image file.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
